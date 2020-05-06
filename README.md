@@ -1,5 +1,7 @@
 # Assignments in Machine Learning for Graphs and Sequential Data
 
+PLEASE SEE DOCUMENTED AND COMMENTED CODE IN JUPYTER NOTEBOOKS IN RESPECTIVE SUBFOLDER.
+
 This lecture is build up on the Machine Learning lecture held by Prof. Stephan Günnemann from the Data Analytics and Machine Learning group at TUM. This is considered to be an Advanced ML course that is suited for students who succesfully completed the challenging Machine Learning course at TUM. 
 
 
