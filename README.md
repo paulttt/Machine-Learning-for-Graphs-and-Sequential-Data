@@ -41,4 +41,6 @@ Taken from the course description by the Data Analytics and Machine Learning Gro
 - Graph Neural Networks
 - (Unsupervised) Node Embeddings
 
+#### References
+
 [1] [Course description for Machine Learning for Graphs and Sequential Data](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950465680)
