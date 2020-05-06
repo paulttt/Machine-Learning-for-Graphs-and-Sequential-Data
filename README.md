@@ -10,7 +10,9 @@ Taken from the course description by the Data Analytics and Machine Learning Gro
 **Introduction**
 - Machine Learning, Data Mining Process
 - Basic Terminology
+
 **Scalability**
+
 - Similarity Estimation
 - Filter-Refine Paradigm
 - Hashing & Sketches
@@ -18,12 +20,16 @@ Taken from the course description by the Data Analytics and Machine Learning Gro
 - Locality Sensitive Hashing
 - Membership Test / Bloom Filter
 - Large-Scale Optimization
+
 **Temporal Data & Sequences**
+
 - Autoregressive Models
 - HMMs
 - Embeddings (e.g. Word2Vec)
 - Neural Networks (e.g. RNN, LSTM)
+
 **Graphs & Networks**
+
 - Laws, Patterns
 - (Deep) Generative Models
 - VAE, Implicit Models
