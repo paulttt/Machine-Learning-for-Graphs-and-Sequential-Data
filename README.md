@@ -7,8 +7,8 @@ This lecture is build up on the Machine Learning lecture held by Prof. Stephan G
 
 ### Content 
 
->Taken from the course description by the Data Analytics and Machine Learning Group at TUM [1].
->
+Taken from the course description by the Data Analytics and Machine Learning Group at TUM [1].
+
 >**Introduction**
 >- Machine Learning, Data Mining Process
 >- Basic Terminology
